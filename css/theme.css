@@ -177,12 +177,13 @@ License URI:
     line-height: inherit;
 }
 .info_element p{
-    color: #a9b2c7;
+    color: white;
     margin: 0;
     line-height: inherit;
 }
 .info_element p a{
-    color: inherit;
+    color: white;
+	
 }
 .info_element p a:hover{
     color: #ea253f;
@@ -224,6 +225,7 @@ License URI:
     position: relative;
     line-height: .8;
     text-align: left;
+	color:green;
 }
 .mainmenu ul{
     margin: 0;
@@ -240,6 +242,7 @@ License URI:
     margin-right: 15px;
     padding: 30px 0 27px;
     position: relative;
+	
     
 }
 .mainmenu ul li:last-child{
@@ -248,7 +251,7 @@ License URI:
 
 .mainmenu > ul > li > a{
     font-size: 15px;
-    color: #7e889b;
+    color: green;
     display: inline-block;
     line-height: .85;
     text-transform: uppercase;
@@ -1238,7 +1241,7 @@ License URI:
 
 }
 .icon_box_03 h3 a{
-    color: black;
+    color: #051230
 }
 .icon_box_03 h3 a:hover{
     color: #ea253f;
@@ -1643,9 +1646,9 @@ License URI:
 .footer_01 .widget ul li a{
     display: inline-block;
     line-height: .8;
-    font-size: 14px;
+    font-size: initial;
     letter-spacing: 0;
-    color: #acafc0;
+    color: white;
     position: relative;
 }
 .footer_01 .widget ul li a:before{
@@ -1798,7 +1801,7 @@ License URI:
 .siteinfo{
     text-align: center;
     border-top: 2px solid #1a2c55;
-    font-size: 14px;
+    font-size: initial;
     line-height: 26px;
     color: #ffffff;
     padding: 25px 0 24px;
@@ -1930,7 +1933,7 @@ License URI:
 .aboutCompanys{
     position: relative;
     background: url(../images/bg/3.jpg) repeat;
-    border: 10px solid #f3f3ff;
+    border: 10px solid #d4d1dc;
     padding: 87px 0 77px;
 }
 .abc_left{
@@ -2363,7 +2366,8 @@ License URI:
     margin: 0 0 23px;
 }
 .singleTeam h3 a{
-    color: inherit;
+    color:#051667;
+	font-size:xx-large;
 }
 .singleTeam h3 a:hover{
     color: #ea253f;
@@ -2862,11 +2866,11 @@ License URI:
     overflow: hidden;
 }
 .singleSkill > span{
-    font-size: 14px;
+    font-size: initial;
     line-height: 1;
-    font-weight: 500;
+    font-weight: 600;
     text-transform: uppercase;
-    color: #ecebff;
+    color: white;
     display: block;
     margin-bottom: 23px;
 }

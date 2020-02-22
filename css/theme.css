@@ -177,12 +177,13 @@ License URI:
     line-height: inherit;
 }
 .info_element p{
-    color: #a9b2c7;
+    color: white;
     margin: 0;
     line-height: inherit;
 }
 .info_element p a{
-    color: inherit;
+    color: white;
+	
 }
 .info_element p a:hover{
     color: #ea253f;
@@ -199,6 +200,7 @@ License URI:
     background: #fff;
     min-height: 70px;
     position: relative;
+	
 }
 .nav_bar .right_bgs{
     width: calc(24.79166666666667% - 35px);
@@ -224,6 +226,7 @@ License URI:
     position: relative;
     line-height: .8;
     text-align: left;
+	
 }
 .mainmenu ul{
     margin: 0;
@@ -232,6 +235,7 @@ License URI:
     font-size: initial;
     font-style: unset;
     font-family: auto;
+	
 }
 .mainmenu ul li{
     list-style: none;
@@ -240,6 +244,7 @@ License URI:
     margin-right: 15px;
     padding: 30px 0 27px;
     position: relative;
+	
     
 }
 .mainmenu ul li:last-child{
@@ -248,7 +253,6 @@ License URI:
 
 .mainmenu > ul > li > a{
     font-size: 15px;
-    color: #7e889b;
     display: inline-block;
     line-height: .85;
     text-transform: uppercase;
@@ -261,7 +265,7 @@ License URI:
     background-image: -moz-linear-gradient( to right, #ea253f, #ea253f 50%, #7e889b 50% );
     background-image: -ms-linear-gradient( to right, #ea253f, #ea253f 50%, #7e889b 50% );
     background-image: -o-linear-gradient( to right, #ea253f, #ea253f 50%, #7e889b 50% );
-    background-image: linear-gradient( to right, #ea253f, #ea253f 50%, #070707 50% );
+    background-image: linear-gradient( to right, #ea253f, #ea253f 50%, #06163a 50% );
     background-size: 200% 100%;
     background-position: 100%;
 }
@@ -331,7 +335,7 @@ License URI:
     padding-top: 23px;
 }
 .top_social a{
-    font-size: 14px;
+    font-size: 15px;
     line-height: .8;
     letter-spacing: 0;
     color: #fff;
@@ -1238,7 +1242,7 @@ License URI:
 
 }
 .icon_box_03 h3 a{
-    color: black;
+    color: #051230
 }
 .icon_box_03 h3 a:hover{
     color: #ea253f;
@@ -1643,9 +1647,9 @@ License URI:
 .footer_01 .widget ul li a{
     display: inline-block;
     line-height: .8;
-    font-size: 14px;
+    font-size: initial;
     letter-spacing: 0;
-    color: #acafc0;
+    color: white;
     position: relative;
 }
 .footer_01 .widget ul li a:before{
@@ -1795,7 +1799,7 @@ License URI:
 .siteinfo{
     text-align: center;
     border-top: 2px solid #1a2c55;
-    font-size: 14px;
+    font-size: initial;
     line-height: 26px;
     color: #ffffff;
     padding: 25px 0 24px;
@@ -1927,7 +1931,7 @@ License URI:
 .aboutCompanys{
     position: relative;
     background: url(../images/bg/3.jpg) repeat;
-    border: 10px solid #f3f3ff;
+    border: 10px solid #d4d1dc;
     padding: 87px 0 77px;
 }
 .abc_left{
@@ -2360,7 +2364,8 @@ License URI:
     margin: 0 0 23px;
 }
 .singleTeam h3 a{
-    color: inherit;
+    color:#051667;
+	font-size:xx-large;
 }
 .singleTeam h3 a:hover{
     color: #ea253f;
@@ -2859,11 +2864,11 @@ License URI:
     overflow: hidden;
 }
 .singleSkill > span{
-    font-size: 14px;
+    font-size: initial;
     line-height: 1;
-    font-weight: 500;
+    font-weight: 600;
     text-transform: uppercase;
-    color: #ecebff;
+    color: white;
     display: block;
     margin-bottom: 23px;
 }
@@ -3325,9 +3330,9 @@ License URI:
 .sidebar_1 .widget ul li a{
     font-size: 14px;
     line-height: .8;
-    color: #6c768e;
+    color: #06163a;
     display: inline-block;
-    padding: 21px 0 21px 0;
+    padding: 21px 0 ;
 }
 .sidebar_1 .widget ul li:hover a, .sidebar_1 .widget ul li.current-menu-item a{
     color: #FFF;
@@ -3349,7 +3354,6 @@ License URI:
 }
 .singleBrou{
     position: relative;
-    border-bottom: 2px solid #eee9ff;
     padding-left: 31px;
     padding-top: 3px;
     line-height: .8;
@@ -3396,7 +3400,7 @@ License URI:
 .singleBrou > a{
     font-size: 14px;
     display: inline-block;
-    color: #6c768e;
+    color: #06163a;
     line-height: .8;
 }
 .singleBrou > a:hover{
@@ -4748,7 +4752,7 @@ blockquote h6{
 }
 .ndAuthorInner{
     position: relative;
-    background: #f3f1ff;
+    background: #06163a;
     padding: 101px 30px 45px;
 }
 .ndAuthorInner img{
@@ -4771,7 +4775,10 @@ blockquote h6{
     margin: 0 0 22px;
 }
 .ndAuthorInner h3 a{
-    color: inherit;
+    color: white;
+	font-size:unset;
+	font-family:initial;
+	padding:5%;
 }
 .ndAuthorInner h3 a:hover{
     color: #ea253f;
@@ -5923,7 +5930,7 @@ blockquote h6{
 .ib5_inner p{
     font-size: 14px;
     line-height: 26px;
-    color: #959ba9;
+    color: #06163a;
     letter-spacing: 0;
     margin: 0 0 17px;
 }

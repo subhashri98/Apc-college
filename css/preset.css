@@ -28,7 +28,6 @@ body{
     font-size: initial;
 	font-style:unset;
     line-height: 26px;
-    color:black;
     font-weight: 400;
     letter-spacing: 0;
 }
@@ -45,7 +44,8 @@ h1, h2, h3, h4, h5, h6{
 }
 
 a{
-    color: #ea253f;
+    color: #06163a;
+	font-size:smaller;
     text-decoration: none;
     transition: all ease 300ms;
     -moz-transition: all ease 300ms;
@@ -202,10 +202,11 @@ input:focus, textarea:focus, select:focus, button:focus{
 
 .fa{
     line-height: inherit;
+	color:red;
 }
 
 .commonSection{
-    padding: 15px 0;
+    padding: 10px;
     position: relative;
     background: #FFF;
 }
@@ -269,6 +270,9 @@ input:focus, textarea:focus, select:focus, button:focus{
 }
 .sec_title span{
     position: relative;
+	font-size:-webkit-xxx-large;
+	color:#051230;
+	
 }
 .sec_title span i{
     font-size: 120px;

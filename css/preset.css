@@ -28,7 +28,6 @@ body{
     font-size: initial;
 	font-style:unset;
     line-height: 26px;
-    color:black;
     font-weight: 400;
     letter-spacing: 0;
 }
@@ -205,7 +204,7 @@ input:focus, textarea:focus, select:focus, button:focus{
 }
 
 .commonSection{
-    padding: 15px 0;
+    padding: 10px;
     position: relative;
     background: #FFF;
 }
@@ -269,6 +268,9 @@ input:focus, textarea:focus, select:focus, button:focus{
 }
 .sec_title span{
     position: relative;
+	font-size:-webkit-xxx-large;
+	color:#051230;
+	
 }
 .sec_title span i{
     font-size: 120px;

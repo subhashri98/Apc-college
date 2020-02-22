@@ -44,7 +44,8 @@ h1, h2, h3, h4, h5, h6{
 }
 
 a{
-    color: #ea253f;
+    color: #06163a;
+	font-size:smaller;
     text-decoration: none;
     transition: all ease 300ms;
     -moz-transition: all ease 300ms;
@@ -201,6 +202,7 @@ input:focus, textarea:focus, select:focus, button:focus{
 
 .fa{
     line-height: inherit;
+	color:red;
 }
 
 .commonSection{

@@ -4755,7 +4755,7 @@ blockquote h6{
 }
 .ndAuthorInner{
     position: relative;
-    background: #f3f1ff;
+    background: #06163a;
     padding: 101px 30px 45px;
 }
 .ndAuthorInner img{
@@ -4778,7 +4778,10 @@ blockquote h6{
     margin: 0 0 22px;
 }
 .ndAuthorInner h3 a{
-    color: inherit;
+    color: white;
+	font-size:unset;
+	font-family:initial;
+	padding:5%;
 }
 .ndAuthorInner h3 a:hover{
     color: #ea253f;

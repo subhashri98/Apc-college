@@ -161,7 +161,7 @@ License URI:
     text-align: left;
     padding-left: 26px;
     top: 28px;
-    margin-right: 45px;
+       margin-right: 20px
 }
 .info_element i{
     font-size: 14px;
@@ -203,7 +203,7 @@ License URI:
 	
 }
 .nav_bar .right_bgs{
-    width: calc(24.79166666666667% - 35px);
+    width: calc(27.79166666666667% - 35px);
     height: 80px;
     background: #ea253f;
     position: absolute;

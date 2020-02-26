@@ -367,6 +367,7 @@ input:focus, textarea:focus, select:focus, button:focus{
     font-size: 70px;
     line-height: .8;
     text-transform: capitalize;
+    text-align: left;
     letter-spacing: -3px;
     margin: 0 0 47px;
     color: #FFF;
@@ -376,6 +377,7 @@ input:focus, textarea:focus, select:focus, button:focus{
     font-size: 14px;
     letter-spacing: 0;
     font-weight: 500;
+    text-align: left;
     text-transform: uppercase;
     color: #949bac;
     line-height: .8;

@@ -67,11 +67,11 @@ License URI:
 }
 .topbar:before{
     position: absolute;
-    width: 38.85416666666667%;
+    width: 40.85416666666667%;
     height: 100%;
     content: '';
     background: #ea253f;
-    left: -22px;
+    left: -35px;
     top: 0;
     transform: skew(-24deg, 0deg);
     -moz-transform: skew(-24deg, 0deg);
